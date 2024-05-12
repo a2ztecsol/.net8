@@ -10,7 +10,7 @@ Welcome to the .NET 8 MVC CRUD Operations project! This project aims to provide 
 
 ## Getting Started
 To get started with this project, follow these steps:
-1. **Clone the Repository**: Clone the project repository to your local machine [[2](https://github.com/oktadeveloper/aspnet-mvc-crud-example/blob/master/README.md)].
+1. **Clone the Repository**: Clone the project repository to your local machine.
 2. **Setup Environment**: Ensure you have .NET 8 installed and configured on your system.
 3. **Explore Code**: Dive into the codebase and understand the implementation details.
 4. **Run the Application**: Execute the application to see the CRUD operations in action.
